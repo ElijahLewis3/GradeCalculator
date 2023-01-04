@@ -1,3 +1,5 @@
+# Grade Calculator
+
 A simple grade calculator that could be used for students or teachers to determine their grades.
 
 There are 5 assessments within the student's course each being worth a certain percentage; Labs(20%), Assignments(20%), Quizzes(20%), Lab Exam(10%), and Final Exam(30%).
